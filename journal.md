@@ -43,11 +43,27 @@ i loved this method for tensioning the belts, its so elegant and compact
 <img width="749" height="705" alt="image" src="https://github.com/user-attachments/assets/d1bdd392-942c-4d0e-9373-1e92f8af87f8" />
 
 
-# 21/03/2026
+# 21/03/2026 1 hour
 
 You probably cant tell, but when i constrained all of rails, that was done relative to the extrusions, which werent propely constrained. 
 So i had to make sure everything was constrained
 <img width="1203" height="925" alt="image" src="https://github.com/user-attachments/assets/b2668aa3-34a5-499b-aab7-c264caa66fd4" />
+
+
+## well, it still wasnt properly constrained oops
+
+
+i tried moving a carridge, and it was NOT happy
+<img width="1728" height="946" alt="image (1)" src="https://github.com/user-attachments/assets/3fca792a-3ab7-45d3-9255-4cbcbb5d88bd" />
+so i tried to fix that, which then resulted in 
+<img width="1067" height="999" alt="image" src="https://github.com/user-attachments/assets/8ff57477-2e11-4a81-9e27-051501437bc3" />
+
+So i figured, since i should have constrained the frame, THEN the rails, and my rails and frame were both super cooked, I should remove all the constraints on the rails, and re constrain them on the bottom instead of building it all upside down.
+Wow the above sentence needed more punctuation.
+
+Anyway YIPEEEEEEEEEEEEEEEEEEEE
+<img width="1445" height="781" alt="image" src="https://github.com/user-attachments/assets/65123228-6cfe-4921-8fa7-17cb6ff83e27" />
+
 
 
 
