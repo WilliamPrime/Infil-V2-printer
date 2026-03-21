@@ -43,7 +43,12 @@ i loved this method for tensioning the belts, its so elegant and compact
 <img width="749" height="705" alt="image" src="https://github.com/user-attachments/assets/d1bdd392-942c-4d0e-9373-1e92f8af87f8" />
 
 
-# 20/03/2026
+# 21/03/2026
+
+You probably cant tell, but when i constrained all of rails, that was done relative to the extrusions, which werent propely constrained. 
+So i had to make sure everything was constrained
+<img width="1203" height="925" alt="image" src="https://github.com/user-attachments/assets/b2668aa3-34a5-499b-aab7-c264caa66fd4" />
+
 
 
 
