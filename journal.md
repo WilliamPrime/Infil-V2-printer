@@ -65,6 +65,24 @@ Anyway YIPEEEEEEEEEEEEEEEEEEEE
 <img width="1445" height="781" alt="image" src="https://github.com/user-attachments/assets/65123228-6cfe-4921-8fa7-17cb6ff83e27" />
 
 
+# 23/03/2026 1.5 hour
+
+modelling in anything with gt2 belts is allways interesting, not difficult , it just looks messy 
+<img width="837" height="762" alt="image" src="https://github.com/user-attachments/assets/4c983689-3163-4080-ab27-992a2a10c5ac" />
+
+
+i think ive gotten somewhere with belt mounting, i didnt want to make a 1 for 1 copy of the anex K3 , however this is heavily inspired by it
+
+<img width="759" height="717" alt="image" src="https://github.com/user-attachments/assets/73881704-50af-4041-96c4-986ed2f35a7c" />
+<img width="647" height="602" alt="image" src="https://github.com/user-attachments/assets/13c63887-1490-4cd3-a1f1-96b8e0da8e77" />
+
+below is an image of the crossection of the annex k3
+<img width="548" height="383" alt="image" src="https://github.com/user-attachments/assets/258a3d78-c412-4bcd-871c-6e1ee51a9326" />
+
+i still need to model in screws on mine, the key difference is that mine is in a bit of a smaller footprint , and also the anex team wrapped the belt arround an m3 bolt, i added a 0.8mm wall thickness hollow cylinder arround a bolt because i feared the bolt cutting into or damaging the belt.
+
+
+
 
 
 
