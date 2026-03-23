@@ -93,6 +93,31 @@ So i plan on having 6 bolts to hold each rail in
 a little detail i like was making sure that the heat set inserts on the bottom that some of those bolts screw into, are recessed so that they dont stick out and cause a misalignment against the carridge of the linear rail.
 <img width="1076" height="946" alt="image" src="https://github.com/user-attachments/assets/e3c756de-a7fa-4710-bbff-99402caadd87" />
 
+8 screws of varying length later and we have a hopefully well screwed together little assembly
+<img width="745" height="740" alt="image" src="https://github.com/user-attachments/assets/63dc047f-e258-40fe-b654-fa556ecdfc90" />
+
+a mirror and some constraints later
+and we get this!
+
+<img width="1673" height="907" alt="image" src="https://github.com/user-attachments/assets/25509371-bd7d-411a-a7d4-8288755284a7" />
+
+
+
+## WOOO
+
+im so happy its comming together
+<img width="1252" height="938" alt="image" src="https://github.com/user-attachments/assets/2de3e820-9f49-4c57-827c-09da444f947a" />
+
+Some of the things im aiming to achive with the cad are
+- have the gantry be parametric, so i could scale it from 120x120 to 350x350 or whatever else i want
+- have all the constraints modelled in properly so that you can move it arround in CAD and check for interference issues
+
+part of the reason im actually making it parametric is because im not exactly sure what my travel distances will be, since some area will be lost depending on the size of my toolhead, so i want to be able to compensate for that
+
+<img width="1386" height="936" alt="image" src="https://github.com/user-attachments/assets/ba9e4391-7f00-433f-b07f-75dee35d845a" />
+
+the parametric aspect of the CAD works arround 40% of the time
+when it doesnt work re defining a handful of the rigid groups seems fix it which is odd to say the least
 
 
 
