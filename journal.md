@@ -65,7 +65,7 @@ Anyway YIPEEEEEEEEEEEEEEEEEEEE
 <img width="1445" height="781" alt="image" src="https://github.com/user-attachments/assets/65123228-6cfe-4921-8fa7-17cb6ff83e27" />
 
 
-# 23/03/2026 1.5 hour
+# 23/03/2026 gantry part 1, 1.5 hour
 
 modelling in anything with gt2 belts is allways interesting, not difficult , it just looks messy 
 <img width="837" height="762" alt="image" src="https://github.com/user-attachments/assets/4c983689-3163-4080-ab27-992a2a10c5ac" />
@@ -80,6 +80,18 @@ below is an image of the crossection of the annex k3
 <img width="548" height="383" alt="image" src="https://github.com/user-attachments/assets/258a3d78-c412-4bcd-871c-6e1ee51a9326" />
 
 i still need to model in screws on mine, the key difference is that mine is in a bit of a smaller footprint , and also the anex team wrapped the belt arround an m3 bolt, i added a 0.8mm wall thickness hollow cylinder arround a bolt because i feared the bolt cutting into or damaging the belt.
+
+# 23/03/2026 gantry part 2, 
+
+Im currently working on finalising which hardware i use and exactly how i mount the rail.
+
+in the previous entry i was mainly focussing on making sure that everything went perfectly with the belts, this time im making sure everything goes perfectly with the rails, i REALYY need to make sure i grip these rails well.
+
+So i plan on having 6 bolts to hold each rail in
+<img width="556" height="367" alt="image" src="https://github.com/user-attachments/assets/3242e76a-8ca3-4f67-8357-9d30b4047da0" />
+
+a little detail i like was making sure that the heat set inserts on the bottom that some of those bolts screw into, are recessed so that they dont stick out and cause a misalignment against the carridge of the linear rail.
+<img width="1076" height="946" alt="image" src="https://github.com/user-attachments/assets/e3c756de-a7fa-4710-bbff-99402caadd87" />
 
 
 
