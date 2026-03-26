@@ -123,3 +123,47 @@ when it doesnt work re defining a handful of the rigid groups seems fix it which
 
 
 
+## 26/03/2026
+
+Trying to speed up the build a lot now
+
+i threw together the mounting for the 625 bearings
+
+i had been delaying this for quite a while because i wasnt sure where i was going to place the lower belt which would throw off everything.
+
+<img width="965" height="676" alt="image" src="https://github.com/user-attachments/assets/41c4e42d-e504-414c-adc0-3180f979d8f8" />
+
+the design wouldnt print the best in one peice , also wouldnt be very easy to use a vice to press fit the bearings
+
+so ive split it into two parts
+<img width="1294" height="704" alt="image" src="https://github.com/user-attachments/assets/4375ba53-b467-4ca7-accd-9b488f81c9fb" />
+<img width="810" height="689" alt="image" src="https://github.com/user-attachments/assets/0ccfcefd-ee16-48d3-ac19-d02b0c02f867" />
+
+but i also believe alignment of these two parts is quite important , so in addition to the m4 bolts that will hold the halves together there will also be locating features 
+<img width="1027" height="822" alt="image" src="https://github.com/user-attachments/assets/68d463c0-7687-4025-a8f9-3ab92b7f05ef" />
+<img width="1232" height="889" alt="image" src="https://github.com/user-attachments/assets/89014941-9cc5-4cd5-9b6f-9f6ce605cbf1" />
+
+Ive added 0.2mm of clearance between the locating geometries so hopefully they should fit okay
+
+oh yeah
+<img width="1076" height="843" alt="image" src="https://github.com/user-attachments/assets/42e75715-940a-49ea-8384-926116f5f2f2" />
+shoutout to autodesk for making custom length bolts a payed feature
+
+i get the mild inconvenince of making my own parametric bolts, which really doesnt take long
+
+It should be able to be copied and used for all the other once since i have "A config" and "B config" which flip which is the idler , and which is the pulley
+<img width="934" height="891" alt="image" src="https://github.com/user-attachments/assets/30a03ecb-727b-46ea-a456-5506ea1a6022" />
+<img width="762" height="644" alt="image" src="https://github.com/user-attachments/assets/6ff68f8d-cc68-4d39-9411-e01a3acb4fc4" />
+
+spotting this wasnt great
+<img width="870" height="955" alt="image" src="https://github.com/user-attachments/assets/16bdc0d9-3674-48b4-ba73-eed562f60db6" />
+
+however couplers like these exist
+<img width="1927" height="876" alt="image" src="https://github.com/user-attachments/assets/9e430d2c-4dc5-41c8-b2fc-02e8104fdaa2" />
+which mean i dont need to redesign anything which is amazing
+
+
+
+
+
+
