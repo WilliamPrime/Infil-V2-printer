@@ -164,6 +164,21 @@ which mean i dont need to redesign anything which is amazing
 
 
 
+<img width="1323" height="1059" alt="image" src="https://github.com/user-attachments/assets/77d8dd44-2303-4e4c-8a0b-15cd79ee27fc" />
+
+Realised i need to rework this as theses are far to close
+<img width="1162" height="959" alt="image" src="https://github.com/user-attachments/assets/a4d511f1-b8fe-4185-8465-5d78dd1d053b" />
+In the process of fixing the above issue i also discovered the holes for the motor attachment were slightly ofset, meaning i had to remove and readd the motor mounting holes. I am however glad that it was simply the motor mounting holes and not the motor which is aligned with a bunch of other stuff
+
+ah this is a lot of errors
+<img width="945" height="924" alt="image" src="https://github.com/user-attachments/assets/aeadb14d-1aac-4404-80f9-8cfb40820360" />
+
+Given the ammount of errors i was getting I decided the best course of action would be to export the completed assemblies, like the ones for the motor / pulley mounting. Then go back to an earlier version of the file without the errors and import the assemblies to get a much cleaner doc,
+<img width="1687" height="1026" alt="image" src="https://github.com/user-attachments/assets/c0a194c7-a82c-44cd-b9e6-dcfc1465ee1b" />
+
+i still need to import the rail holders again, but this looks a lot better, and takes way less time to compute when changing perameters
+
+
 
 
 
