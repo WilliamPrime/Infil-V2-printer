@@ -197,5 +197,19 @@ im not exactly sure how that works but ok fusion
 if we ignore bits of floating here and there its starting to look quite good
 <img width="1421" height="1029" alt="image" src="https://github.com/user-attachments/assets/22f98b70-ae70-4ebe-9a47-15d7a6d87c8e" />
 
+time to fix the floaties
+
+Screws first
+<img width="1202" height="969" alt="image" src="https://github.com/user-attachments/assets/ca2d1893-1099-427c-8825-874b5f007ba0" />
+
+
+i could have just made a block, and i did
+but i felt like doing something a little fun just because ive been doing CAD for 6 hours straight at this point
+<img width="1185" height="728" alt="image" src="https://github.com/user-attachments/assets/a3436d73-d60d-45da-8a14-0e7c2e78b5a2" />
+i know infil could have reduced the weight, but i just like hexagons
+
+wow this is definetly comming together quickly now
+<img width="1693" height="938" alt="image" src="https://github.com/user-attachments/assets/4e86d047-c066-48f5-b682-b0f6ecf486ec" />
+
 
 
