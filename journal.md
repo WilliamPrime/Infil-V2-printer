@@ -123,7 +123,7 @@ when it doesnt work re defining a handful of the rigid groups seems fix it which
 
 
 
-## 26/03/2026
+## 26/03/2026 5 hours
 
 Trying to speed up the build a lot now
 
@@ -179,6 +179,14 @@ Given the ammount of errors i was getting I decided the best course of action wo
 i still need to import the rail holders again, but this looks a lot better, and takes way less time to compute when changing perameters
 
 
+# AHHHH 27/03/2026
+
+lovely how in fusion its shown as <img width="551" height="130" alt="image" src="https://github.com/user-attachments/assets/a353b3d0-2d27-4183-ade3-40085bd145aa" />
+but once you dare to look at it
+it turns into this AHH
+fussssiiioonnnnn 
+
+<img width="2357" height="1079" alt="image" src="https://github.com/user-attachments/assets/6cfbcf9f-e0f8-4926-a7df-792e1ada78f8" />
 
 
 
