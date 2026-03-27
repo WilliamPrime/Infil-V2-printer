@@ -189,4 +189,8 @@ fussssiiioonnnnn
 <img width="2357" height="1079" alt="image" src="https://github.com/user-attachments/assets/6cfbcf9f-e0f8-4926-a7df-792e1ada78f8" />
 
 
+it appears exporting as a step
+and then importing fixes the issues?
+im not exactly sure how that works but ok fusion
+
 
