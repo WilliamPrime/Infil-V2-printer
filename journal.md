@@ -194,3 +194,8 @@ and then importing fixes the issues?
 im not exactly sure how that works but ok fusion
 
 
+if we ignore bits of floating here and there its starting to look quite good
+<img width="1421" height="1029" alt="image" src="https://github.com/user-attachments/assets/22f98b70-ae70-4ebe-9a47-15d7a6d87c8e" />
+
+
+
