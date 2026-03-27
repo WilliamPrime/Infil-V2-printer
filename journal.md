@@ -211,5 +211,8 @@ i know infil could have reduced the weight, but i just like hexagons
 wow this is definetly comming together quickly now
 <img width="1693" height="938" alt="image" src="https://github.com/user-attachments/assets/4e86d047-c066-48f5-b682-b0f6ecf486ec" />
 
+sumarry of what ive done so far today
+- made progress on a bunch of stuff
+- broken a bunch of stuff
 
 
