@@ -121,7 +121,7 @@ when it doesnt work re defining a handful of the rigid groups seems fix it which
 
 
 
-
+# tidy here down
 
 ## 26/03/2026 5 hours
 
@@ -214,5 +214,54 @@ wow this is definetly comming together quickly now
 sumarry of what ive done so far today
 - made progress on a bunch of stuff
 - broken a bunch of stuff
+
+
+**mention file naming
+<img width="721" height="572" alt="image" src="https://github.com/user-attachments/assets/9db950be-c84f-4d92-bc5f-7da6cbfbd60a" />
+**checking colisions
+
+**new file so i can develop hotend there
+<img width="1844" height="1360" alt="image" src="https://github.com/user-attachments/assets/2bcd4a1a-86cb-4bb5-a045-d48830b5b0c8" />
+
+
+modelling in no go zones so i can rearrange things with more awareness for how it interacts with the frame
+<img width="1092" height="764" alt="image" src="https://github.com/user-attachments/assets/d030c659-6486-4a13-aa8d-e26fb2512f74" />
+
+
+
+
+<img width="714" height="484" alt="image" src="https://github.com/user-attachments/assets/c42c97f0-7662-4f44-90a8-6d6996bffae3" />
+<img width="758" height="460" alt="image" src="https://github.com/user-attachments/assets/53636fc6-0c71-4d22-89ee-92d444264940" />
+<img width="846" height="620" alt="image" src="https://github.com/user-attachments/assets/1746c072-44a3-4684-a6c3-b8439fa5416a" />
+
+might just be the worst looking duct ive ever made, or ever seen
+but if it cools, it cools
+
+
+i can prob use aux cooling if i really need
+
+It needs to be at an angle because its a belted printer
+
+i was also really limited on the fan placement because of the gantry
+soo there is probably a far better way to do it
+
+# 28/03/2026 5 hours
+
+Modelling the no go zones REALLYY helped me work out how to arange things.
+
+ive tried to design the printed parts so that they are easy to print since the last printer i designed had some rather akward and support needing parts.
+<img width="985" height="680" alt="image" src="https://github.com/user-attachments/assets/31d7da99-ff49-4499-9aba-6fb35cbf704f" />
+<img width="1569" height="905" alt="image" src="https://github.com/user-attachments/assets/859c4a77-5dc3-4aaf-b4ef-53357eb77fa7" />
+<img width="1228" height="961" alt="image" src="https://github.com/user-attachments/assets/3bfbd575-7cda-43d8-8da3-40e0a3d872bb" />
+
+hopefully its not awful to print
+
+
+Anddd i think thats the hotend
+<img width="2561" height="1156" alt="hotend r1" src="https://github.com/user-attachments/assets/da2f4dc8-c3d9-4228-819b-fc59252b215f" />
+<img width="2561" height="1156" alt="hotend r2" src="https://github.com/user-attachments/assets/dc099763-485d-4706-bfc4-770f6a82320f" />
+<img width="2561" height="1156" alt="hotend r3" src="https://github.com/user-attachments/assets/8905f7c7-a49a-4e95-ba4f-ed3ba8bacfc6" />
+<img width="2561" height="1156" alt="hotend r4" src="https://github.com/user-attachments/assets/c966f1bb-bbd3-4015-8314-65be0e8a839c" />
+<img width="2561" height="1156" alt="hotend r5" src="https://github.com/user-attachments/assets/a0003a75-fa42-4dab-997f-6a7c29682667" />
 
 
