@@ -216,11 +216,18 @@ sumarry of what ive done so far today
 - broken a bunch of stuff
 
 
-**mention file naming
-<img width="721" height="572" alt="image" src="https://github.com/user-attachments/assets/9db950be-c84f-4d92-bc5f-7da6cbfbd60a" />
-**checking colisions
+To elaborate what i meant when i said breaking a bunch of stuff, i managed to create circular dependancies, amongst other unpleasant things, which resulted in the file breaking or crashing any time i attempted to change the perameters of the frame.
 
-**new file so i can develop hotend there
+So my solution to that was to once again export the completed assemblies as step files
+and then make a new file to recombine them all into again
+which fixed the issue
+
+
+in the image below you can see me trying to make sketches to work out roughly where i was allowed to with my hotend without it coliding with the frame
+<img width="721" height="572" alt="image" src="https://github.com/user-attachments/assets/9db950be-c84f-4d92-bc5f-7da6cbfbd60a" />
+i could then export that sketch into the file where i was building my hotend
+
+
 <img width="1844" height="1360" alt="image" src="https://github.com/user-attachments/assets/2bcd4a1a-86cb-4bb5-a045-d48830b5b0c8" />
 
 
