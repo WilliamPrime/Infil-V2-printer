@@ -11,7 +11,7 @@ if i run out of time, this might get turned into a voron 0.1 size croxy 3d print
 Back to what i actually did
 
 
-# 18/03/2026 started on a parametric frame 2 hours 
+# 18/03/2026 started on a parametric frame 2h
 
 Really just getting back into the swing of parametric CAD.
 Last time i did a bunch of things in ways that fusion didnt like, so this time im trying to do things as proper as i can to stop fusion getting annoyed at me.
@@ -81,7 +81,7 @@ below is an image of the crossection of the annex k3
 
 i still need to model in screws on mine, the key difference is that mine is in a bit of a smaller footprint , and also the anex team wrapped the belt arround an m3 bolt, i added a 0.8mm wall thickness hollow cylinder arround a bolt because i feared the bolt cutting into or damaging the belt.
 
-# 23/03/2026 gantry part 2, 
+# 23/03/2026 gantry part 2, 2h 
 
 Im currently working on finalising which hardware i use and exactly how i mount the rail.
 
@@ -103,7 +103,7 @@ and we get this!
 
 
 
-## WOOO
+# 25/03/2026 gantry part 3, 3h
 
 im so happy its comming together
 <img width="1252" height="938" alt="image" src="https://github.com/user-attachments/assets/2de3e820-9f49-4c57-827c-09da444f947a" />
@@ -121,9 +121,9 @@ when it doesnt work re defining a handful of the rigid groups seems fix it which
 
 
 
-# tidy here down
 
-## 26/03/2026 5 hours
+
+# 26/03/2026 5 hours
 
 Trying to speed up the build a lot now
 
@@ -179,7 +179,7 @@ Given the ammount of errors i was getting I decided the best course of action wo
 i still need to import the rail holders again, but this looks a lot better, and takes way less time to compute when changing perameters
 
 
-# AHHHH 27/03/2026
+# AHHHH 27/03/2026 6h
 
 lovely how in fusion its shown as <img width="551" height="130" alt="image" src="https://github.com/user-attachments/assets/a353b3d0-2d27-4183-ade3-40085bd145aa" />
 but once you dare to look at it
@@ -270,5 +270,7 @@ Anddd i think thats the hotend
 <img width="2561" height="1156" alt="hotend r3" src="https://github.com/user-attachments/assets/8905f7c7-a49a-4e95-ba4f-ed3ba8bacfc6" />
 <img width="2561" height="1156" alt="hotend r4" src="https://github.com/user-attachments/assets/c966f1bb-bbd3-4015-8314-65be0e8a839c" />
 <img width="2561" height="1156" alt="hotend r5" src="https://github.com/user-attachments/assets/a0003a75-fa42-4dab-997f-6a7c29682667" />
+
+the hotend took me a bit longer that i expected, but hopefully it should all join together well when i bring it back into the other file
 
 
