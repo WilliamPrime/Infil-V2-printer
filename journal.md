@@ -273,7 +273,7 @@ Anddd i think thats the hotend
 
 the hotend took me a bit longer that i expected, but hopefully it should all join together well when i bring it back into the other file
 
- # 28/03/2025 ??h
+ # 29/03/2025 1h
 
 stuff is all comming together now, well, we can ingore the parts that spontaneously broke
  <img width="1491" height="943" alt="image" src="https://github.com/user-attachments/assets/beedd2c5-cfde-417f-8372-952d0f944878" />
@@ -300,3 +300,31 @@ then this corner is ok
 overall i dont think i did a bad job
 
 the moment of truth now is working out if i can change parameters without it breaking or crashing
+
+it did it without crashing however it broke in some places again
+<img width="458" height="425" alt="image" src="https://github.com/user-attachments/assets/ab128d76-26fe-4888-a79e-967b2661b0b1" />
+
+an export an import later and i think its fixed
+
+
+
+Some things i did on my hotend that i forgot to mention earlier
+
+the first is im going to need to remove or use a hacksaw to make this tube shorter
+<img width="697" height="694" alt="image" src="https://github.com/user-attachments/assets/a29f1bf3-5059-4db4-9046-203fa1897d72" />
+
+the second is i plan on using superglue to help secure the 4020 fan
+i didnt believe the two screws one above the other would sufficiently secure the fan, so i added little spur to the side which i could use superglue, or double sided tape, or PVA etc
+<img width="1773" height="1658" alt="image" src="https://github.com/user-attachments/assets/8bfd7b83-e133-45ce-8a98-eb1af519b2a1" />
+<img width="973" height="870" alt="image" src="https://github.com/user-attachments/assets/931c936e-0db5-4d80-8023-089613b3e196" />
+
+my plan for the duct at the moment is also just tape, i believe once i have the parts i will need to iterate on that in significant ways
+<img width="1556" height="1130" alt="image" src="https://github.com/user-attachments/assets/184f3ea8-e674-4449-8b4d-a8d5d203f988" />
+
+
+
+Here are some renders of what its like now
+<img width="3840" height="1782" alt="main r4" src="https://github.com/user-attachments/assets/a34f5c3f-0d6e-479a-be48-f45726c10781" />
+<img width="2561" height="1156" alt="first render of it" src="https://github.com/user-attachments/assets/0456429e-a582-4b1f-a7bb-ed116dba24dd" />
+
+
