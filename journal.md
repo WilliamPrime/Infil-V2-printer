@@ -273,4 +273,8 @@ Anddd i think thats the hotend
 
 the hotend took me a bit longer that i expected, but hopefully it should all join together well when i bring it back into the other file
 
+ # 28/03/2025 ??h
+
+stuff is all comming together now, well, we can ingore the parts that spontaneously broke
+ <img width="1491" height="943" alt="image" src="https://github.com/user-attachments/assets/beedd2c5-cfde-417f-8372-952d0f944878" />
 
