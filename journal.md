@@ -278,3 +278,25 @@ the hotend took me a bit longer that i expected, but hopefully it should all joi
 stuff is all comming together now, well, we can ingore the parts that spontaneously broke
  <img width="1491" height="943" alt="image" src="https://github.com/user-attachments/assets/beedd2c5-cfde-417f-8372-952d0f944878" />
 
+
+ now its fixed i can check if my clearances are working out ok, if i did everything right the carridges should hit the end before anything on the hotend colides with the frame
+ this one looks good
+ <img width="913" height="796" alt="image" src="https://github.com/user-attachments/assets/467e925c-e59b-4a0b-b348-67794b6e8ea2" />
+
+this one doesnt look like a pass
+<img width="579" height="664" alt="image" src="https://github.com/user-attachments/assets/ececb5f1-788f-4ee0-9f13-34a90a74744d" />
+however
+<img width="1255" height="863" alt="image" src="https://github.com/user-attachments/assets/614a8cf9-520e-4e48-a5d4-2686df30cd8e" />
+<img width="1447" height="937" alt="image" src="https://github.com/user-attachments/assets/7e9bb310-5d33-4b04-b5c8-d6279f57da27" />
+its a pass
+
+this corner is not the best at all
+<img width="668" height="618" alt="image" src="https://github.com/user-attachments/assets/f71234d0-20ac-4fcf-8356-bfb6d2dec274" />
+
+then this corner is ok
+<img width="642" height="525" alt="image" src="https://github.com/user-attachments/assets/c51f74f3-7c1a-46e4-941a-11c2a31c2192" />
+
+
+overall i dont think i did a bad job
+
+the moment of truth now is working out if i can change parameters without it breaking or crashing
