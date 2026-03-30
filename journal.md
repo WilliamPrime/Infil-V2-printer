@@ -328,9 +328,9 @@ Here are some renders of what its like now
 <img width="2561" height="1156" alt="first render of it" src="https://github.com/user-attachments/assets/0456429e-a582-4b1f-a7bb-ed116dba24dd" />
 
 
-# 29/03/2026
+# 29/03/2026 working on the bed/belt assembly, 3 hours
 
-23:40 started working on belt assembly again
+started working on belt assembly again
 
 <img width="1637" height="778" alt="image" src="https://github.com/user-attachments/assets/2a0a5217-c221-4572-b982-5563e5388da6" />
 <img width="1631" height="725" alt="image" src="https://github.com/user-attachments/assets/fb24d717-68c3-41de-858d-e40d37987cfe" />
@@ -361,4 +361,6 @@ for the sillies i also decided that the spoke count, width and radii for the cha
 
 <img width="849" height="153" alt="image" src="https://github.com/user-attachments/assets/b68b6458-730a-4bd3-944a-ae4734edaaf9" />
 
+so putting all of that together we get this
+<img width="2561" height="1156" alt="bed assebmyl current state" src="https://github.com/user-attachments/assets/6211fca1-9fe9-4a8a-8a7a-a94e2780dc62" />
 
