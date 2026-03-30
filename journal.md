@@ -339,4 +339,12 @@ Here are some renders of what its like now
 <img width="1751" height="953" alt="image" src="https://github.com/user-attachments/assets/9a4f4e72-f51a-411f-ba0e-cc82ad8afd3f" />
 <img width="736" height="957" alt="image" src="https://github.com/user-attachments/assets/579115b7-b317-4be4-86a0-2dc7115f2cfd" />
 <img width="1635" height="788" alt="image" src="https://github.com/user-attachments/assets/ed5aad72-2ee8-429a-ba7c-b8ffaab3453a" />
+<img width="1568" height="819" alt="image" src="https://github.com/user-attachments/assets/1388ae53-f059-4418-bc4d-26bdd4560001" />
 
+<img width="941" height="906" alt="image" src="https://github.com/user-attachments/assets/cad6b023-e86c-42f4-a5c7-bb2463705350" />
+using those mesurements i can find the perimeter to be
+
+93+93+ (( (360-153)/360) x 57 x pi) + ((153/360) x 12.8 x pi)
+
+which evaluates to be 306mm
+so my minimum belt length is 306mm , and therefore my max should be arround 318mm
