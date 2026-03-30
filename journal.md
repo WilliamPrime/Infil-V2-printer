@@ -348,3 +348,17 @@ using those mesurements i can find the perimeter to be
 
 which evaluates to be 306mm
 so my minimum belt length is 306mm , and therefore my max should be arround 318mm
+
+
+
+
+back to the rollers
+i could have left them as plain cylinders, however that feels rather boring
+
+<img width="1218" height="721" alt="image" src="https://github.com/user-attachments/assets/b9400508-5d62-4ac7-8e0f-421cebdcc334" />
+
+for the sillies i also decided that the spoke count, width and radii for the chamfers should be parametric
+
+<img width="849" height="153" alt="image" src="https://github.com/user-attachments/assets/b68b6458-730a-4bd3-944a-ae4734edaaf9" />
+
+
