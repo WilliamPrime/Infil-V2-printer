@@ -454,6 +454,10 @@ fusion throws errors like this when i try and export the belt which definetly me
 
 I believe the best course of action now is to export it as a STEP file, and then import it again, and reconstruct the rigid groups and constraints only where needed in a smarter way.
 
+interesting how after importing it the only part that wasnt preserved was the belt. I think that reinforces my hypothesis that it was that belt causing the issues
+
+20-30min later and ive rebuilt all of the assemblies without any issues
+<img width="1440" height="890" alt="image" src="https://github.com/user-attachments/assets/00928c4d-16df-4399-8011-1ba7c24d6b60" />
 
 
 
