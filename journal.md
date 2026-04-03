@@ -620,6 +620,10 @@ Ive also added PSU brackets beacuse those are probably a useful thing to have, i
 <img width="907" height="617" alt="image" src="https://github.com/user-attachments/assets/64a2e30a-3cc8-4d3e-a78a-a15941444eb8" />
 my strategy at first was make a big box , however i might need to fly with it, so now its a big box that can flatpack down, which sort of made me restart in how i designed it, but its fine.
 
+Im trying to make it a nice box at least, making the bolts recessed where possible, that should also help me if/when i mount it
+<img width="1534" height="937" alt="image" src="https://github.com/user-attachments/assets/2748e632-849f-4088-b690-aeb4c733bcee" />
+
+
 # left to do
 - [x] put bed and gantry together
 - [ ] electronics bay
