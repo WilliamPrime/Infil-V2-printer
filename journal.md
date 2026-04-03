@@ -623,10 +623,13 @@ my strategy at first was make a big box , however i might need to fly with it, s
 Im trying to make it a nice box at least, making the bolts recessed where possible, that should also help me if/when i mount it
 <img width="1534" height="937" alt="image" src="https://github.com/user-attachments/assets/2748e632-849f-4088-b690-aeb4c733bcee" />
 
+Im oddly satisfied with the enclosure
+<img width="1304" height="907" alt="image" src="https://github.com/user-attachments/assets/964146f4-2d05-4e50-a545-1783197f4aec" />
+
 
 # left to do
 - [x] put bed and gantry together
-- [ ] electronics bay
+- [x] electronics bay
 - [x] check build volume
 - [ ] final count of screws so i can finish bom
 - [ ] source motors
