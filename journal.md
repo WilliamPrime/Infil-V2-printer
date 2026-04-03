@@ -470,4 +470,15 @@ This just means that when tensioning the belt you need to remove the tension fro
 This could be improved by moving the tensioning mechanism to the other side.
 For now i will stick to this design, however i plan on changing that in the future
 
+I found a solution to the above issue.
+The two bed rollers are the same in every single way, nothing stops me from swapping them, so its a very quick fix which i will do now
+
+before:
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/8ab15076-515c-429a-9ba0-c1171d6fe331" />
+
+after:
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/ea72a3cb-966c-44f2-b015-2d8068721789" />
+
+
+A subtle difference that should save a headache down the road
 
