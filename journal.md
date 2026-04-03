@@ -519,13 +519,24 @@ here is a render of how the bed assembly is comming along
 
 ## ive decided i want to see a bit of progress, so im putting together the gantry 
 wow waiting for fusion to compute stuff is terrifying, im so scared it will crash.
+After adjusting those ofsets fusion took 58 seconds to compute all of that, which is scaryily long for it to be unresponsive.
 
 Ive also adjusted the positioning of the linear rails since there was some additional build that i could get by simply better positioning the rails
 
 <img width="1109" height="887" alt="image" src="https://github.com/user-attachments/assets/a48c7bed-1837-41eb-bfb8-2c1e15a87f01" />
 
+and a little bit more optimising later and the frame is 6mm smaller
+<img width="845" height="878" alt="image" src="https://github.com/user-attachments/assets/f7cc58a1-7c86-4843-b2d5-88d2b054c7cb" />
 
+component count is also starting to go up now its all in one file
+<img width="845" height="147" alt="image" src="https://github.com/user-attachments/assets/a7372d94-0bd4-4034-91ef-5598fc9f0be4" />
 
+wow it looks, like -- something,
+something top heavy.
+<img width="1961" height="1156" alt="oh no" src="https://github.com/user-attachments/assets/7aad1980-87bc-4225-a0c4-86878f45ddf5" />
+
+the width of the bottom part is 170mm
+the width of the top part/gantry is 264mm
 
 
 
