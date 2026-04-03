@@ -517,6 +517,12 @@ here is a render of how the bed assembly is comming along
 <img width="2561" height="1056" alt="new new belt assembly v5" src="https://github.com/user-attachments/assets/4c417bd1-e902-4483-8fe4-16aa9a77130e" />
 
 
+## ive decided i want to see a bit of progress, so im putting together the gantry 
+wow waiting for fusion to compute stuff is terrifying, im so scared it will crash.
+
+Ive also adjusted the positioning of the linear rails since there was some additional build that i could get by simply better positioning the rails
+
+<img width="1109" height="887" alt="image" src="https://github.com/user-attachments/assets/a48c7bed-1837-41eb-bfb8-2c1e15a87f01" />
 
 
 
