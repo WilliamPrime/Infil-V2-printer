@@ -461,3 +461,13 @@ interesting how after importing it the only part that wasnt preserved was the be
 
 
 
+
+<img width="1941" height="875" alt="image" src="https://github.com/user-attachments/assets/8ab15076-515c-429a-9ba0-c1171d6fe331" />
+
+I just realised ive made an  "interesting" choice, the drum that moves is the ones thats drive by the motor, so by moving that drum it adjusts the bed belt tension, but also the bed motor belt tension.
+
+This just means that when tensioning the belt you need to remove the tension from the motor, and add it back after.
+This could be improved by moving the tensioning mechanism to the other side.
+For now i will stick to this design, however i plan on changing that in the future
+
+
