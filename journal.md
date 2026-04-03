@@ -504,7 +504,31 @@ my random picking of the bed orientiation seems to not be the best as one of the
 rotated it 180deg, fixed!
 <img width="1721" height="726" alt="image" src="https://github.com/user-attachments/assets/9fb1af14-f9c7-4b70-9fef-cf9099769cb7" />
 
+im working on getting something to hold the motor in place for the bed belt, i do need to make it look a bit better though
+<img width="1333" height="962" alt="image" src="https://github.com/user-attachments/assets/854ecdf5-9f63-4603-8527-28f3f37d48c5" />
+
+a small fillet goes a long way in making things look better
+<img width="1389" height="911" alt="image" src="https://github.com/user-attachments/assets/9c7945eb-28ab-4a1d-9b47-c995f9763746" />
+
+so does some colour
+<img width="1340" height="842" alt="image" src="https://github.com/user-attachments/assets/8c3d1c9c-7f5d-460d-827d-77f51ba9650c" />
+
+here is a render of how the bed assembly is comming along
+<img width="2561" height="1056" alt="new new belt assembly v5" src="https://github.com/user-attachments/assets/4c417bd1-e902-4483-8fe4-16aa9a77130e" />
 
 
 
 
+
+
+
+
+left to do
+- [ ] put bed and gantry together
+- [ ] electronics bay
+- [ ] check build volume
+- [ ] final count of screws so i can finish bom
+- [ ] source motors
+- [ ] renders for readme
+- [ ] generate clean readme
+- [ ] create STLs/3MFs for the parts
