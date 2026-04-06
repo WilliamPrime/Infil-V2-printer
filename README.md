@@ -28,9 +28,12 @@ When building it, I would suggest you build the bed assembly first.And assemble 
 
 https://github.com/user-attachments/assets/72ef6f26-8bf3-4d65-aa56-422cc91b3fcc
 
+When building it you will find the CAD for the extruder is not included
+the mounting holes for the extruder support anything with the same mounting as the sherpa mini
+for my build im using the [ProtoXtruder 2.0 by Nhchiu](https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0)
+
 # Parts/BOM
 
-_add link_
 [_Here_](https://github.com/WilliamPrime/Infil-V2-printer/blob/main/BOM.csv) is the BOM
 
 If you allready have some of the parts, [_this_](https://github.com/WilliamPrime/Infil-V2-printer/blob/main/Interactive%20BOM.xlsx) version of the bom lets you remove parts and tick them off
