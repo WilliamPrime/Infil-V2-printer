@@ -38,5 +38,10 @@ for my build im using the [ProtoXtruder 2.0 by Nhchiu](https://github.com/nhchiu
 
 If you allready have some of the parts, [_this_](https://github.com/WilliamPrime/Infil-V2-printer/blob/main/Interactive%20BOM.xlsx) version of the bom lets you remove parts and tick them off
 
+In terms of filament, i recomend using ABS, you will need
+~1300g of primary colour
+~600g of secondary colour
+
+
 # images of the printer built
 _comming soon _
