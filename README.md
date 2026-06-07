@@ -2,19 +2,18 @@
 # Breaky Belt
 
 ## What is Breaky Belt? 
-Breaky belt is a belt printer that prints at an angle, in theory allowing infinetly long prints. That and the cross gantry are what i believe make it speciala.
+Breaky belt is a belt printer that prints at an angle, in theory allowing infinetly long prints.
 
 Some of the printers that inspired me to make this are:
 - [Baby Belt](https://github.com/RobMink/BabyBeltPro)
 - [Annex K3](https://github.com/Annex-Engineering/Gasherbrum-K3)
 
-# Renders of the printer 
-<img width="2561" height="1096" alt="Red R1" src="https://github.com/user-attachments/assets/97f77b51-96ac-4fc6-b510-3b5757cfa644" />
-<img width="2561" height="1156" alt="red r6" src="https://github.com/user-attachments/assets/22eba320-27a3-4d9d-9044-4301fdc83320" />
-<img width="2561" height="1156" alt="Red r5" src="https://github.com/user-attachments/assets/e194a3a4-0a50-4134-9264-7885a7313b2f" />
-<img width="2561" height="1156" alt="Red R4" src="https://github.com/user-attachments/assets/249e045e-e2a0-4f88-bfec-984076b3978f" />
-<img width="2561" height="1156" alt="Red R3" src="https://github.com/user-attachments/assets/38d4c5e7-af71-4403-9c3e-dcdf2167c6f0" />
-<img width="2561" height="1156" alt="Red R2" src="https://github.com/user-attachments/assets/c97b5761-2926-4231-a887-87e2896eb35a" />
+
+<img width="5000" height="3335" alt="_DSC5262" src="https://github.com/user-attachments/assets/c47daac1-0dc3-4030-b0da-2e85e639e4d8" />
+<img width="5000" height="3335" alt="_DSC5261" src="https://github.com/user-attachments/assets/70a82ecc-34c7-471b-9896-b8bf3245b3ad" />
+<img width="5000" height="3335" alt="_DSC5266" src="https://github.com/user-attachments/assets/8ba97bf8-9ca5-49db-b8f9-dbb53c18c328" />
+<img width="5000" height="3335" alt="_DSC5264" src="https://github.com/user-attachments/assets/91443141-56eb-4097-8bdd-762b6941663a" />
+
 
 
 
@@ -45,5 +44,9 @@ In terms of filament, i recomend using ABS, you will need
 ~600g of secondary colour
 
 
-# images of the printer built
-_comming soon _
+
+£
+
+
+# bonus photo with Orpheus for scale
+<img width="5000" height="3335" alt="_DSC5265" src="https://github.com/user-attachments/assets/d346a3a8-7d98-4019-9503-26f6a09adb4c" />
