@@ -23,6 +23,15 @@ Dont worry though, hopefully it shouldnt break on you!
 
 An alterative name i was considering was BRRRTT, pronounced Bert, it was supposed to mimic the sound the printer makes while printing quickly.
 
+# WARNING BEFORE YOU CONSIDER BUILDING ONE
+
+ALL OF THE FILES IN THE REPO HAVENT BEEN TESTED YET
+
+there are currently some issues ive encountered
+1. there is a clearance issue with a couple of gantry parts removing ~10mm of x travel
+2. Electronics are currently free to roam arround whatever surface the printer is on, its not the best
+3. Currently the dual SKR mini config isnt the original inteded cofig, its currently operating at 1.77A @ 24V per motor, as opposed to the 2.5A @ 48V per motor its capable of, this is due to me not being able to figure out the firmware for the board I chose, if you choose something like a btt octopus or a mellow fly super , you shouldnt run into this issue. Reguardless of how you fix it, im not exactly sure of the max capabilities of the printer at the moment, 1300mm/s @ 37K Accel was comfortable acchived without motor tuning or experimentation into rubber band systems to counter the weight of toolhead
+
 # building it
 On the topic of it breaking on you (which hopefully it shouldnt do).
 When building it, I would suggest you build the bed assembly first.And assemble it as shown in the following animation
